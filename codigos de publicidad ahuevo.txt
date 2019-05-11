@@ -1,0 +1,2 @@
+<div class="contenedor-ad"><a href="#"> <img src="http://localhost/wordpress/wp-content/uploads/2019/02/esferas_dragon_ball.jpg" alt="" /> </a></div>
+
