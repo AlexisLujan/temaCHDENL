@@ -31,7 +31,7 @@ header{
     }
   }
   .menu{
-    background: $azul_primario;
+    background: $color_menu;
     margin-bottom: 1.25em;
     ul{
       list-style: none;
@@ -48,7 +48,7 @@ header{
           color: #fff;
           &:hover{
             text-decoration: none;
-            background: $azul_secundario;
+            background: $color_menuHover;
           }
         }
       }

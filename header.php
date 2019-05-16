@@ -45,15 +45,15 @@
 
       </div>
 
-  </div>
+
 
   <nav class="menu">
     <div class="container">
       <div class="row">
         <ul class="nav d-flex align-items-center">
           <li class="nav-item active">
-            <div class="logo col-xs-12 col-sm-2">
-              <a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('template_url'); ?>/img/Logo2.png" style="width: 150px;" alt="Texto alternativo"></a>
+            <div class="logo col-xs-12 col-sm-2 mt-0">
+              <a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('template_url'); ?>/img/Logo2.png" style="width: 400px;" alt="Texto alternativo"></a>
             </div>
         </li>
         <!--
@@ -80,5 +80,5 @@
 
 
   <?php if(!function_exists('dynamic_sidebar') || !dynamic_sidebar('Header')) : endif; ?>
-
+  </div>
   </header>

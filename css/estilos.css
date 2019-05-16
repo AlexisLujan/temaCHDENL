@@ -39,7 +39,7 @@ header .redes-sociales {
       background: #7289da; }
 
 header .menu {
-  background: #5f6ad4;
+  background: #BA4A00;
   margin-bottom: 1.25em; }
   header .menu ul {
     list-style: none;
@@ -56,7 +56,7 @@ header .menu {
         color: #fff; }
         header .menu ul li a:hover {
           text-decoration: none;
-          background: #7780da; }
+          background: #c26121; }
 
 .main .titulo-seccion h3,
 .sidebar .titulo-seccion h3 {
